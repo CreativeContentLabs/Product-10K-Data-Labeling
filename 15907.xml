@@ -1,0 +1,26 @@
+<annotation>
+	<folder>selected</folder>
+	<filename>15907.jpg</filename>
+	<path>C:\Users\hephe\Desktop\train\selected\15907.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>648</width>
+		<height>1296</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>88</ymin>
+			<xmax>543</xmax>
+			<ymax>1006</ymax>
+		</bndbox>
+	</object>
+</annotation>
