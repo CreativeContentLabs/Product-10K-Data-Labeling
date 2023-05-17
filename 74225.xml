@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Product10K-bounding-box-labeling</folder>
+	<filename>74225.jpg</filename>
+	<path>C:\Users\JEON KYONG MIN\Desktop\Product10K-bounding-box-labeling\74225.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>754</width>
+		<height>1008</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>238</ymin>
+			<xmax>569</xmax>
+			<ymax>901</ymax>
+		</bndbox>
+	</object>
+</annotation>
