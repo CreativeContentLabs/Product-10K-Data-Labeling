@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>49613.jpg</filename>
+	<path>C:\Users\darak\OneDrive\Desktop\2023_하계방학_스터디\labeling\Product10K-bounding-box-labeling\images\49613.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4167</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>39</ymin>
+			<xmax>993</xmax>
+			<ymax>1348</ymax>
+		</bndbox>
+	</object>
+</annotation>

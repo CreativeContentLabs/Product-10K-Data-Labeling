@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>46431.jpg</filename>
+	<path>C:\Users\darak\OneDrive\Desktop\2023_하계방학_스터디\라벨링\labeling\Product10K-bounding-box-labeling\images\46431.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>1040</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
