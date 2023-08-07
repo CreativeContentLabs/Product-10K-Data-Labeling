@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>34998.jpg</filename>
+	<path>C:\Users\BHJ\Desktop\Product10K-bounding-box-labeling-master\images\34998.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1632</width>
+		<height>920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>4</ymin>
+			<xmax>1575</xmax>
+			<ymax>696</ymax>
+		</bndbox>
+	</object>
+</annotation>
