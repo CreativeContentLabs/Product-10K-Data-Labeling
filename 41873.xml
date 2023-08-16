@@ -1,0 +1,26 @@
+<annotation>
+	<folder>전경민</folder>
+	<filename>41873.jpg</filename>
+	<path>C:\Users\JEON KYONG MIN\Desktop\전경민\41873.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>684</width>
+		<height>1216</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>.</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>311</ymin>
+			<xmax>684</xmax>
+			<ymax>766</ymax>
+		</bndbox>
+	</object>
+</annotation>
