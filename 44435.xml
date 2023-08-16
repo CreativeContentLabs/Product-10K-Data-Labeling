@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>44435.jpg</filename>
+	<path>C:\Users\darak\OneDrive\Desktop\2023_하계방학_스터디\라벨링\labelling-2차\Images\44435.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>712</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>256</ymin>
+			<xmax>286</xmax>
+			<ymax>648</ymax>
+		</bndbox>
+	</object>
+</annotation>
