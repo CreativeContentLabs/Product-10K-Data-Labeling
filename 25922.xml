@@ -1,7 +1,7 @@
 <annotation>
-	<folder>selected</folder>
+	<folder>new_images</folder>
 	<filename>25922.jpg</filename>
-	<path>C:\Users\hephe\Desktop\train\selected\25922.jpg</path>
+	<path>C:\Users\BHJ\Desktop\Product10K-bounding-box-labeling-master\new_images\25922.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>0</name>
+		<name>1</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>68</xmin>
-			<ymin>96</ymin>
+			<ymin>94</ymin>
 			<xmax>175</xmax>
-			<ymax>297</ymax>
+			<ymax>298</ymax>
 		</bndbox>
 	</object>
 </annotation>
