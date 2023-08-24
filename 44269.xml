@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Product10K-bounding-box-labeling</folder>
+	<folder>new_images</folder>
 	<filename>44269.jpg</filename>
-	<path>C:\Users\JEON KYONG MIN\Desktop\코딩\Product10K-bounding-box-labeling\44269.jpg</path>
+	<path>C:\Users\SEC\Desktop\labelling\Product10K-bounding-box-labeling\new_images\44269.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>571</xmin>
-			<ymin>419</ymin>
-			<xmax>1023</xmax>
-			<ymax>1366</ymax>
+			<xmin>550</xmin>
+			<ymin>405</ymin>
+			<xmax>1052</xmax>
+			<ymax>1382</ymax>
 		</bndbox>
 	</object>
 </annotation>

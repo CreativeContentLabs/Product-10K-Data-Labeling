@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>new_images</folder>
 	<filename>48773.jpg</filename>
-	<path>C:\Users\darak\OneDrive\Desktop\2023_하계방학_스터디\labeling\Product10K-bounding-box-labeling\images\48773.jpg</path>
+	<path>C:\Users\SEC\Desktop\labelling\Product10K-bounding-box-labeling\new_images\48773.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>4132</name>
+		<name>0</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>30</xmin>
-			<ymin>327</ymin>
-			<xmax>476</xmax>
-			<ymax>778</ymax>
+			<xmin>21</xmin>
+			<ymin>355</ymin>
+			<xmax>455</xmax>
+			<ymax>771</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>selected</folder>
+	<folder>new_images</folder>
 	<filename>20327.jpg</filename>
-	<path>C:\Users\hephe\Desktop\train\selected\20327.jpg</path>
+	<path>C:\Users\SEC\Desktop\labelling\Product10K-bounding-box-labeling\new_images\20327.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>593</ymin>
-			<xmax>739</xmax>
-			<ymax>833</ymax>
+			<ymin>574</ymin>
+			<xmax>750</xmax>
+			<ymax>881</ymax>
 		</bndbox>
 	</object>
 </annotation>

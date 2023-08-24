@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>39519.jpg</filename>
+	<path>C:\Users\SEC\Desktop\labelling\Product10K-bounding-box-labeling\new_images\39519.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>947</width>
+		<height>1363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>106</ymin>
+			<xmax>843</xmax>
+			<ymax>1333</ymax>
+		</bndbox>
+	</object>
+</annotation>

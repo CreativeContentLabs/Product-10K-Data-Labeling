@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>new_images</folder>
 	<filename>40875.jpg</filename>
-	<path>C:\Users\SEC\Desktop\labelling\Product10K-bounding-box-labeling\images\40875.jpg</path>
+	<path>C:\Users\SEC\Desktop\labelling\Product10K-bounding-box-labeling\new_images\40875.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>321</ymin>
-			<xmax>469</xmax>
-			<ymax>629</ymax>
+			<xmin>19</xmin>
+			<ymin>325</ymin>
+			<xmax>476</xmax>
+			<ymax>632</ymax>
 		</bndbox>
 	</object>
 </annotation>
